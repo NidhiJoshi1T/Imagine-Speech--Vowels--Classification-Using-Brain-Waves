@@ -1,1 +1,1 @@
-In this file the ASU dataset vowel's have been classfied using CWT-CNN
+In this repository, vowels of ASU dataset have been classfied using CWT-CNN model.
